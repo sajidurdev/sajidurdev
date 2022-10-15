@@ -1,19 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Alpha 👋 
 
-<!--
-**Alpha5959/Alpha5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Developer
 
-Here are some ideas to get you started:
+- 🥅 Discord.JS Developer 
+- ⚡ Learning HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][course]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][twitter]
+
+<br />
+<br />
+
+---
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Alpha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha5959&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+[course]: https://youtu.be/dQw4w9WgXcQ
+[twitter]: https://youtu.be/dQw4w9WgXcQ
+[youtube]: https://youtu.be/dQw4w9WgXcQ
+[webdevplaylist]: https://youtu.be/dQw4w9WgXcQ
+[jsplaylist]: https://youtu.be/dQw4w9WgXcQ
+[cssplaylist]: https://youtu.be/dQw4w9WgXcQ
