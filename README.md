@@ -5,7 +5,7 @@
 - 🥅 **Discord.JS** Developer 
 - ⚡ Learning **HTML, CSS**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tga098&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alpha5959&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
 
 ### Languages and Tools:
 
