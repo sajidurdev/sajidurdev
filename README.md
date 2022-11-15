@@ -4,10 +4,18 @@
 
 - 🥅 **Discord.JS** Developer 
 - ⚡ Learning **HTML, CSS**
+- 🏆 Developer of **Reliable**
+
+## Links
+
+- 🎉 [[Reliable]](https://dsc.gg/reliable-bot)
+- 🦸‍♂️ [[Reliable Support]](https://dsc.gg/reliable-support)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alpha5959&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
 
-### Languages and Tools:
+---
+
+### Languages and Tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][course]
