@@ -1,4 +1,4 @@
-# Hi there, I'm Alpha 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Alpha+👋)](dsc.gg/reliable-support)
 
 ## I'm a Student, Developer
 
