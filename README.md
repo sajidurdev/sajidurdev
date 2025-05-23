@@ -2,7 +2,7 @@
 
 I'm a passionate developer who enjoys creating innovative projects and exploring new challenges. I'm always learning and looking for ways to improve my skills and contribute to the tech community.
 
-* 🖥️  See my portfolio at [bento.me/kroenen](http://bento.me/kroenen)
+* 🖥️  See my portfolio at [bento.me/kroenen](http://bento.me/sajiddev)
 * 🧠  I'm learning Golang & Tensorflow
 * ⚡  shh, I love to renovate things :)
 
