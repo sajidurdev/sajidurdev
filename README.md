@@ -2,8 +2,8 @@
 
 I'm a passionate developer who enjoys creating innovative projects and exploring new challenges. I'm always learning and looking for ways to improve my skills and contribute to the tech community.
 
-* 🖥️  See my portfolio at [bento.me/sajiddev](http://bento.me/sajiddev)
-* 🧠  I'm learning Golang & Tensorflow
+* 🖥️  See my portfolio at [bento.me/sevrin](https://bento.me/sevrin)
+* 🧠  I'm learning Rust & PyTorch
 * ⚡  shh, I love to renovate things :)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
