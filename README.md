@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Sajid+👋)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Sajid+👋)
 
 I'm a passionate developer who enjoys creating innovative projects and exploring new challenges. I'm always learning and looking for ways to improve my skills and contribute to the tech community.
 
