@@ -2,7 +2,7 @@
 
 I'm a passionate developer who enjoys creating innovative projects and exploring new challenges. I'm always learning and looking for ways to improve my skills and contribute to the tech community.
 
-* 🖥️  See my portfolio at [bento.me/sevrin](https://bento.me/sevrin)
+* 🖥️  See my portfolio at [sajidur.xyz](https://sajidur.xyz)
 * 🧠  I'm learning Rust & PyTorch
 * ⚡  shh, I love to renovate things :)
 
