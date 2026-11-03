@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://sajidur.xyz"><img src="https://img.shields.io/badge/Website-303030?style=flat-square&amp;logoColor=FFFFFF&amp;logo=googlechrome" alt="Website" height="25" /></a>
   <a href="https://github.com/sajidurdev"><img src="https://img.shields.io/badge/GitHub-303030?style=flat-square&amp;logoColor=FFFFFF&amp;logo=github" alt="GitHub" height="25" /></a>
-  <a href="https://www.linkedin.com/in/sajidur-rahman-2380522b5"><img src="https://img.shields.io/badge/LinkedIn-303030?style=flat-square&amp;logoColor=FFFFFF&amp;logo=linkedin" alt="LinkedIn" height="25" /></a>
+  <a href="https://www.linkedin.com/in/sajidurrahmanx"><img src="https://img.shields.io/badge/LinkedIn-303030?style=flat-square&amp;logoColor=FFFFFF&amp;logo=linkedin" alt="LinkedIn" height="25" /></a>
   <a href="https://x.com/_Sajidur"><img src="https://img.shields.io/badge/X-303030?style=flat-square&amp;logoColor=FFFFFF&amp;logo=x" alt="X" height="25" /></a>
 </p>
 
